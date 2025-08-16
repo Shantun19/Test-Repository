@@ -1,2 +1,3 @@
 # Test-Repository
-this repository is for learning git and github
+<br>
+<Strong><i></Strong>this repository is for learning git and github</i></strong>
